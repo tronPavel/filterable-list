@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+}
+main {
+  font-family: Calibri, serif;
+  width: 700px;
+  margin: 0 auto;
+}
+#filterInput {
+  width: 25em;
+  height: 2em;
+  margin: 0 auto;
+  display: block;
+}
+ul {
+  list-style-type: none;
+}
+li {
+  border-bottom: 1px gray solid;
+  padding: 10px;
+}
